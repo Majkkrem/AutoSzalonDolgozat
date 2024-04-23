@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\autoszalondolgozat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|solutionrelative:autoszalondolgozat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|c:\\users\\marks\\onedrive\\documents\\teams petrik\\autoszalondolgozat\\autoszalondolgozat\\autoszalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|solutionrelative:autoszalondolgozat\\autoszalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|c:\\users\\marks\\onedrive\\documents\\teams petrik\\autoszalondolgozat\\autoszalondolgozat\\terepjaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|solutionrelative:autoszalondolgozat\\terepjaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|c:\\users\\marks\\onedrive\\documents\\teams petrik\\autoszalondolgozat\\autoszalondolgozat\\szemelyauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|solutionrelative:autoszalondolgozat\\szemelyauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|c:\\users\\marks\\onedrive\\documents\\teams petrik\\autoszalondolgozat\\autoszalondolgozat\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\autoszalondolgozat\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|solutionrelative:autoszalondolgozat\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|c:\\users\\marks\\onedrive\\documents\\teams petrik\\autoszalondolgozat\\autoszalondolgozat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|solutionrelative:autoszalondolgozat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\autoszalondolgozat\\szemelyauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|solutionrelative:autoszalondolgozat\\szemelyauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\autoszalondolgozat\\terepjaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89082A87-211B-40A9-9523-271636439E98}|AutoszalonDolgozat\\AutoszalonDolgozat.csproj|solutionrelative:autoszalondolgozat\\terepjaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Autoszalon.cs",
               "DocumentMoniker": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\AutoszalonDolgozat\\Autoszalon.cs",
               "RelativeDocumentMoniker": "AutoszalonDolgozat\\Autoszalon.cs",
               "ToolTip": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\AutoszalonDolgozat\\Autoszalon.cs",
               "RelativeToolTip": "AutoszalonDolgozat\\Autoszalon.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADsAAAALAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwEMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T09:05:13.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Terepjaro.cs",
               "DocumentMoniker": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\AutoszalonDolgozat\\Terepjaro.cs",
               "RelativeDocumentMoniker": "AutoszalonDolgozat\\Terepjaro.cs",
@@ -55,44 +55,43 @@
               "RelativeToolTip": "AutoszalonDolgozat\\Terepjaro.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAwwCwAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:05:05.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T09:05:05.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Szemelyauto.cs",
               "DocumentMoniker": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\AutoszalonDolgozat\\Szemelyauto.cs",
               "RelativeDocumentMoniker": "AutoszalonDolgozat\\Szemelyauto.cs",
               "ToolTip": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\AutoszalonDolgozat\\Szemelyauto.cs",
               "RelativeToolTip": "AutoszalonDolgozat\\Szemelyauto.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDMAAAAyAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwB0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T09:04:36.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Jarmu.cs",
               "DocumentMoniker": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\AutoszalonDolgozat\\Jarmu.cs",
               "RelativeDocumentMoniker": "AutoszalonDolgozat\\Jarmu.cs",
               "ToolTip": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\AutoszalonDolgozat\\Jarmu.cs",
               "RelativeToolTip": "AutoszalonDolgozat\\Jarmu.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAwwC8AAABHAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T09:04:25.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\AutoszalonDolgozat\\Program.cs",
               "RelativeDocumentMoniker": "AutoszalonDolgozat\\Program.cs",
               "ToolTip": "C:\\Users\\marks\\OneDrive\\Documents\\Teams Petrik\\AutoszalonDolgozat\\AutoszalonDolgozat\\Program.cs",
               "RelativeToolTip": "AutoszalonDolgozat\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAALAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T09:03:07.847Z",
               "EditorCaption": ""

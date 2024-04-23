@@ -47,5 +47,10 @@ namespace AutoszalonDolgozat
 
             Console.WriteLine($"Kilóméteróra állása: {KilometeroraAllas}");
         }
+
+        public override string ToString()
+        {
+            return Gyarto + " " + Modell;
+        }
     }
 }

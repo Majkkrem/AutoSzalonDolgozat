@@ -1,2 +1,7 @@
 C:\Users\marks\OneDrive\Documents\Teams Petrik\AutoszalonDolgozat\AutoszalonDolgozat\obj\Debug\AutoszalonDolgozat.csproj.AssemblyReference.cache
 C:\Users\marks\OneDrive\Documents\Teams Petrik\AutoszalonDolgozat\AutoszalonDolgozat\obj\Debug\AutoszalonDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\marks\OneDrive\Documents\Teams Petrik\AutoszalonDolgozat\AutoszalonDolgozat\bin\Debug\AutoszalonDolgozat.exe.config
+C:\Users\marks\OneDrive\Documents\Teams Petrik\AutoszalonDolgozat\AutoszalonDolgozat\bin\Debug\AutoszalonDolgozat.exe
+C:\Users\marks\OneDrive\Documents\Teams Petrik\AutoszalonDolgozat\AutoszalonDolgozat\bin\Debug\AutoszalonDolgozat.pdb
+C:\Users\marks\OneDrive\Documents\Teams Petrik\AutoszalonDolgozat\AutoszalonDolgozat\obj\Debug\AutoszalonDolgozat.exe
+C:\Users\marks\OneDrive\Documents\Teams Petrik\AutoszalonDolgozat\AutoszalonDolgozat\obj\Debug\AutoszalonDolgozat.pdb

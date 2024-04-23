@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -41,30 +42,34 @@ namespace AutoszalonDolgozat
             }
         }
 
-        //public Jarmu JarmuKeresese(string gyarto, string modell)
-        //{
-        //    var jarmu = Jarmuvek.Find(j => j.Gyarto == gyarto && j.Modell == modell);
+        public Jarmu JarmuKeresese(string gyarto, string modell)
+        {
+            var jarmu = Jarmuvek.Find(j => j.Gyarto == gyarto && j.Modell == modell);
 
-        //    if (jarmu != null)
-        //    {
-
-        //        Console.WriteLine(jarmu);
-        //        return Jarmu;
-                
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("A keresett jármú nem található!");
-        //        return null;
-        //    }
-        //}
+            if (jarmu != null)
+            {
+                Console.WriteLine("A keresett jármú megtalálva: " + jarmu);
+                return jarmu;
+            }
+            else
+            {
+                Console.WriteLine("A keresett jármú nem található!");
+                return null;
+            }
+        }
+        
 
 
         public void JarmuvekListazasa()
         {
-            Console.WriteLine(Jarmuvek);
+
+            foreach (var jarmu in Jarmuvek)
+            {
+                Console.WriteLine(jarmu);
+            }
         }
-       
+
+        
     }
 
 
