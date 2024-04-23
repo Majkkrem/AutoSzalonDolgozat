@@ -1,0 +1,2 @@
+C:\Users\marks\OneDrive\Documents\Teams Petrik\AutoszalonDolgozat\AutoszalonDolgozat\obj\Debug\AutoszalonDolgozat.csproj.AssemblyReference.cache
+C:\Users\marks\OneDrive\Documents\Teams Petrik\AutoszalonDolgozat\AutoszalonDolgozat\obj\Debug\AutoszalonDolgozat.csproj.CoreCompileInputs.cache
